@@ -110,9 +110,9 @@ Router1# show ip route
 ```
 ## 📤 OUTPUT
 ---
-<img width="841" height="1013" alt="image" src="https://github.com/user-attachments/assets/54e37780-24ab-404b-bcdf-566a194afcb9" />
+<img width="837" height="449" alt="517519314-70dad0ab-7459-4d55-b95b-f2791e041c13" src="https://github.com/user-attachments/assets/69dce703-df7c-40e0-8e38-7ed2a385ed3c" />
 
-
+<img width="835" height="488" alt="517520386-d8c675f6-9ac9-4bd7-86c6-7b8ec65ad157" src="https://github.com/user-attachments/assets/5177772b-e644-47aa-ad61-35554a829899" />
 
 ## 📝 RESULT
 Thus, the computers in multiple networks using Open Shortest Path First (OSPF) Routing Protocol are successfully connected and the connectivity between them is verified.
